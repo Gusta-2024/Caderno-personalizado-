@@ -1,72 +1,107 @@
-# 📊 Caderno Personalizado de Análise de Mercado
+# 📊 Caderno Temático: Análise de Posicionamento de Mercado com IA
 
-## 📖 Descrição
+## 📖 Contexto e Objetivos
 
-Este projeto consiste em um caderno (NotebookLM) desenvolvido com o objetivo de auxiliar na análise do posicionamento do mercado financeiro, especialmente no contexto de investimentos na bolsa de valores.
+Este projeto foi desenvolvido com o objetivo de utilizar a Inteligência Artificial como ferramenta de apoio ao aprendizado ativo no mercado financeiro, com foco na análise de tendências da bolsa de valores.
 
-A proposta não é indicar quais ativos são melhores ou piores para investimento, mas sim analisar o comportamento geral do mercado, identificando tendências como:
+O caderno foi construído utilizando o NotebookLM como ferramenta principal para organizar, interpretar e consolidar informações provenientes de diversas fontes.
 
-* Mercado em tendência de alta 📈
-* Mercado em tendência de queda 📉
+### 🎯 Objetivos de estudo:
 
-A análise é baseada no cenário macroeconômico atual e em fatores que podem impactar diferentes setores.
-
----
-
-## 🎯 Objetivo
-
-O principal objetivo deste projeto é desenvolver uma ferramenta de apoio para:
-
-* Compreender o comportamento do mercado
-* Identificar tendências gerais
-* Analisar quais setores apresentam crescimento sustentável e rentável
-* Apoiar a tomada de decisão com base em dados e contexto
+* Compreender o comportamento macro do mercado financeiro
+* Identificar tendências (alta ou queda) com base em contexto econômico
+* Analisar setores com crescimento sustentável
+* Desenvolver pensamento crítico sobre fontes de informação
+* Aprender a utilizar IA como ferramenta de apoio à análise
 
 ---
 
-## ⚙️ Funcionalidades
+## 📚 Curadoria de Fontes
 
-* Análise de tendências de mercado (alta ou queda)
-* Avaliação de cenários econômicos atuais
-* Identificação de setores com crescimento relevante
-* Consolidação de informações de múltiplas fontes
+As seguintes fontes foram selecionadas e utilizadas no NotebookLM:
 
----
+* 📄 Relatórios e análises da B3
+* 🎥 Vídeos educacionais sobre mercado financeiro (YouTube)
+* 📘 Conteúdos introdutórios sobre investimentos
+* 📊 Materiais de análise de cenários macroeconômicos
 
-## 📚 Fontes de Dados
-
-O caderno será alimentado com informações provenientes de diversas fontes, incluindo:
-
-* Vídeos e conteúdos educacionais do YouTube
-* Audiolivros sobre mercado financeiro
-* Análises da bolsa de valores brasileira (B3)
-* Conteúdos de investidores e analistas reconhecidos
 
 ---
 
-## ⚠️ Aviso Importante
+## 🤖 Engenharia de Prompts e "Cicatrizes"
 
-Este projeto **não fornece recomendações de investimento**.
+Durante o desenvolvimento do projeto, foram testados diferentes tipos de prompts para extrair informações relevantes da IA.
 
-Seu objetivo é exclusivamente educacional e analítico, servindo como ferramenta de apoio para interpretação do mercado.
+### 🧠 Exemplos de Prompts Utilizados:
 
----
-
-## 🚀 Próximos Passos
-
-* Integração com APIs financeiras
-* Automatização da coleta de dados
-* Aplicação de técnicas de análise de dados e inteligência artificial
-* Criação de dashboards interativos
+* "Com base nas fontes fornecidas, o mercado atual apresenta tendência de alta ou queda?"
+* "Quais setores estão demonstrando crescimento sustentável?"
+* "Quais fatores macroeconômicos impactam o cenário atual?"
 
 ---
 
-## 🧠 Motivação
+### ⚠️ Dificuldades Encontradas:
 
-Devido ao conhecimento inicial limitado na área de investimentos, este projeto foi criado como uma forma prática de aprendizado, utilizando tecnologia para entender melhor o funcionamento do mercado financeiro.
+* Respostas genéricas quando os prompts eram muito amplos
+* Falta de precisão ao não especificar contexto econômico
+* Necessidade de refinar perguntas para obter respostas mais analíticas
 
 ---
 
-## 📄 Licença
+### 🔧 Ajustes Realizados:
 
-Este projeto está sob a licença MIT.
+* Uso de prompts mais específicos
+* Inclusão de contexto nas perguntas
+* Comparação entre múltiplas respostas
+
+---
+
+## 📘 Miniguia de Estudo
+
+### 📌 Resumo do Tema
+
+O mercado financeiro apresenta variações constantes influenciadas por fatores macroeconômicos, políticos e sociais. A análise de tendências permite identificar se o mercado está em movimento de alta ou queda, auxiliando na tomada de decisão.
+
+---
+
+### 📖 Glossário
+
+* **Tendência de Alta**: Movimento contínuo de valorização do mercado
+* **Tendência de Queda**: Movimento de desvalorização
+* **Macroeconomia**: Estudo dos fatores econômicos globais
+* **Setores Econômicos**: Segmentos da economia (tecnologia, energia, etc.)
+
+---
+
+### 🔁 Prompts Reutilizáveis
+
+* "Analise o cenário atual e identifique a tendência do mercado."
+* "Quais setores estão em destaque com base nas fontes?"
+* "Quais riscos podem impactar o mercado no curto prazo?"
+
+---
+
+## 🔗 Acesso ao Caderno
+
+O caderno desenvolvido no NotebookLM pode ser acessado através do link abaixo:
+
+👉 https://notebooklm.google.com/notebook/04049bb1-1edd-4222-aa98-0fc793980915
+
+---
+
+## ⚠️ Aviso
+
+Este projeto possui caráter exclusivamente educacional e não constitui recomendação de investimento.
+
+---
+
+## 🚀 Conclusão
+
+Este projeto permitiu o desenvolvimento de habilidades práticas em:
+
+* Curadoria de conteúdo
+* Engenharia de prompts
+* Análise crítica de informações
+* Uso de IA como ferramenta de aprendizagem
+
+---
